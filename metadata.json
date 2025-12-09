@@ -1,0 +1,5 @@
+{
+  "name": "Snake React Pro",
+  "description": "Um jogo da cobrinha moderno e responsivo construído com React e Tailwind CSS. Colete blocos, aumente sua pontuação e evite colidir consigo mesmo ou com as paredes!",
+  "requestFramePermissions": []
+}
