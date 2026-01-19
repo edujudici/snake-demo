@@ -63,14 +63,14 @@ export default function App() {
 
   return (
     <div className="min-h-screen bg-gray-950 flex flex-col items-center justify-center p-4 select-none touch-none">
-      
+
       {/* Header */}
       <div className="w-full max-w-[500px] flex justify-between items-end mb-6">
         <div>
           <h1 className="text-3xl font-black text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-teal-500 italic tracking-tighter">
             SNAKE PRO
           </h1>
-          <p className="text-gray-500 text-xs font-medium">Clássico Retro Remasterizado</p>
+          <p className="text-gray-500 text-xs font-medium">Clássico Retro Remasterizado v2</p>
         </div>
 
         <div className="flex gap-4">
@@ -81,7 +81,7 @@ export default function App() {
                     <span className="text-xl font-bold font-mono">{highScore}</span>
                 </div>
             </div>
-            
+
             <div className="text-right">
                 <p className="text-gray-500 text-[10px] uppercase font-bold tracking-widest mb-1">Pontos</p>
                 <div className="flex items-center justify-end gap-1.5 text-emerald-400">
